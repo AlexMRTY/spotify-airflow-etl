@@ -1,0 +1,10 @@
+.env
+docker/airflow.db
+docker/airflow.cfg
+docker/webserver_config.py
+docker/airflow-webserver.pid
+docker/postgres
+docker/scripts/__pycache__
+docker/logs
+docker/dags/__pycache__
+docker/standalone_admin_password.txt
